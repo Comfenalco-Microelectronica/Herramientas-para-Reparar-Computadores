@@ -6,6 +6,8 @@
 - Estrella, cruz
 - Torx
 
+![alt text](imagen-5.png)
+
 Tornillos de seguridad:
 
 ![alt text](imagen.png)
